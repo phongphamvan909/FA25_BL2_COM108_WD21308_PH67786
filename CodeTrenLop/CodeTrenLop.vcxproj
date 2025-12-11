@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{6d344287-357f-4400-876f-9682d4d4b883}</ProjectGuid>
-    <RootNamespace>Assigment</RootNamespace>
+    <ProjectGuid>{4885d98b-7328-4525-b845-da773fff667c}</ProjectGuid>
+    <RootNamespace>CodeTrenLop</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
